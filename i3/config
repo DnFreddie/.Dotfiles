@@ -593,6 +593,6 @@ bindsym $mod+d exec --no-startup-id $HOME/.local/bin/drun
 bindsym $mod+Shift+x move scratchpad
 #bindsym mod4+f [instance="thunar"] scratchpad show
 
-bindsym $mod+q [class="firefox"] scratchpad show, resize set 1500 820, move position center
+bindsym $mod+q [class="firefox"] scratchpad show, resize set 1700 1020, move position center
 #bindsym mod4+q [instance="keepassxc"] scratchpad show
 #bindsym mod4+w [instance="emacs"] scratchpad show
